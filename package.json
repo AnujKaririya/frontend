@@ -1,0 +1,10 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Frontend for the backend API (no build step, no dependencies)",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
