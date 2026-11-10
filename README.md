@@ -3,6 +3,7 @@
 A full-stack video sharing app: upload and watch videos, comment, like, subscribe, build playlists and manage your channel from a creator dashboard.
 
 **Live demo:** <https://frontend-7l86.onrender.com>
+Backend repo: <https://github.com/AnujKaririya/backend>
 
 
 <!-- Add 2–3 screenshots here, e.g. ![Home](docs/home.png) -->
